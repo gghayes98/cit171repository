@@ -9,3 +9,14 @@
 `Docker run stedi-content -p 8080:80`
 
 Then open http://localhost:8080
+
+
+# Pushing Code
+
+`git add .`
+
+`git commit -mm "message"`
+
+`git remote add origin`
+
+`git push -u origin main`
